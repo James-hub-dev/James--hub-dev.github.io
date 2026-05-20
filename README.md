@@ -1,2 +1,2 @@
-# James--hub-dev.github.io
+# James-hub-dev.github.io
 My -First -Website 
